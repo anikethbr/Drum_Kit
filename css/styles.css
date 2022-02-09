@@ -107,27 +107,25 @@ footer {
   h1{
     font-size: 10rem;
   }
-  button{
+  .drum button{
+    font-size: 8rem;
+    border: 15px solid #404B69;
+    text-shadow: 9px 0 #DBEDF3;
     width: 95%;
     height: 95%;
     margin: 5%;
   }
-  body{
-    touch-action: manipulation;
+  .w .a{
+    display: inline-block;
   }
-  .drum{
+  .s .d{
+    display: inline-block;
+  }
+  .j .k{
+    display: inline-block;
+  }
+  .l{
     display: block;
-  }
-  .d1{
-    display: inline-block;
-  }
-  .d2{
-    display: inline-block;
-  }
-  .d3{
-    display: inline-block;
-  }
-  .d4{
-    display: block;
+    text-align: center;
   }
 }
