@@ -111,8 +111,8 @@ footer {
     font-size: 8rem;
     border: 15px solid #404B69;
     text-shadow: 9px 0 #DBEDF3;
-    min-width: 95%;
-    min-height: 95%;
+    min-width: 300px;
+    min-height: 300px;
     margin: 5%;
     display: none;
   }
@@ -127,9 +127,9 @@ footer {
   }
   .d4{
     display: block;
-    text-align: center;
+    margin: auto;
   }
   footer{
-    font-size: 4rem;
+    font-size: 3rem;
   }
 }
