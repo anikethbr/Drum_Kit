@@ -79,12 +79,10 @@ footer {
     font-size: 10rem;
   }
   .drum{
-    font-size: 8rem;
-    border: 15px solid #404B69;
-    text-shadow: 9px 0 #DBEDF3;
-    width: 180px;
-    height: 180px;
-    margin: 2%;
+    min-width: 500px;
+    min-height: 500px;
+    margin: 5%;
+    align-items: center;
   }
   footer{
     font-size: 3rem;
