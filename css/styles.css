@@ -116,7 +116,7 @@ footer {
     touch-action: manipulation;
   }
   .drum{
-    display: none;
+    display: block;
   }
   .d1{
     display: inline-block;
@@ -126,5 +126,8 @@ footer {
   }
   .d3{
     display: inline-block;
+  }
+  .d4{
+    display: block;
   }
 }
